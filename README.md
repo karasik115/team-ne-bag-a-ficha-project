@@ -1,16 +1,12 @@
 # Не баг, а фича
 
-Единый учебный репозиторий бригады № 1 по дисциплине «Введение в профессиональную деятельность» в РГРТУ имени В. Ф. Уткина. Здесь хранятся результаты восьми практических работ, общая документация, материалы и исходный код.
+Единый учебный репозиторий бригады № 1 по дисциплине «Введение в профессиональную деятельность» в РГРТУ имени В. Ф. Уткина. Текущий этап: самостоятельная работа № 2, организация репозитория и совместной работы с Git.
 
 ## Назначение проекта
 
 **Тема проекта:** № 16. «Помощник по выбору ноутбука для обучения».
 
-Проект посвящён созданию помощника для выбора ноутбука с учётом задач обучения. Выбор темы актуален для студентов: различия в характеристиках устройств затрудняют выбор подходящего ноутбука. Эта задача понятна аудитории и может быть представлена в учебном прототипе веб-сайта.
-
-Итоговый результат проекта: работающий прототип веб-сайта со структурой страниц, навигацией и пользовательскими сценариями. Дополнительно команда готовит структурированный репозиторий, описание ролей и вклада участников и итоговую презентацию.
-
-Работа выполняется поэтапно: в СР3 определяется целевая аудитория, в СР4 выбираются функции, в СР5 проектируются экраны и переходы. Прототип создаётся в СР6, проверяется и дорабатывается в СР7, затем демонстрируется на защите в СР8. Для прототипа допускается использование конструктора сайтов или другого инструмента, не требующего углублённого программирования.
+Назначение проекта: подготовка учебного прототипа веб-сайта, который помогает выбирать ноутбук для обучения. На текущем этапе организованы командный репозиторий, документация и распределение ответственности в Git.
 
 ## Состав команды
 
@@ -35,14 +31,14 @@
 | --- | --- | --- | --- |
 | 01 | Профессиональные роли и формирование команды | [report.md](practical-works/practical-work-01/report.md) | [assets](practical-works/practical-work-01/assets/) |
 | 02 | Организация работы с репозиторием и распределение ответственности в Git | [report.md](practical-works/practical-work-02/report.md) | [assets](practical-works/practical-work-02/assets/) |
-| 03 | Определение целевой аудитории | [report.md](practical-works/practical-work-03/report.md) | [assets](practical-works/practical-work-03/assets/), [src](practical-works/practical-work-03/src/) |
-| 04 | Выявление функциональных требований методом мозгового штурма | [report.md](practical-works/practical-work-04/report.md) | [assets](practical-works/practical-work-04/assets/), [src](practical-works/practical-work-04/src/) |
-| 05 | Разработка интерфейса | [report.md](practical-works/practical-work-05/report.md) | [assets](practical-works/practical-work-05/assets/), [src](practical-works/practical-work-05/src/) |
-| 06 | Разработка прототипа | [report.md](practical-works/practical-work-06/report.md) | [assets](practical-works/practical-work-06/assets/), [src](practical-works/practical-work-06/src/) |
-| 07 | Проверка прототипа и доработка | [report.md](practical-works/practical-work-07/report.md) | [assets](practical-works/practical-work-07/assets/), [src](practical-works/practical-work-07/src/) |
-| 08 | Подготовка и защита итогового решения | [report.md](practical-works/practical-work-08/report.md) | [assets](practical-works/practical-work-08/assets/), [src](practical-works/practical-work-08/src/) |
+| 03 | Определение целевой аудитории | [report.md](practical-works/practical-work-03/report.md) | [src](practical-works/practical-work-03/src/) |
+| 04 | Выявление функциональных требований методом мозгового штурма | [report.md](practical-works/practical-work-04/report.md) | [src](practical-works/practical-work-04/src/) |
+| 05 | Разработка интерфейса | [report.md](practical-works/practical-work-05/report.md) | [src](practical-works/practical-work-05/src/) |
+| 06 | Разработка прототипа | [report.md](practical-works/practical-work-06/report.md) | [src](practical-works/practical-work-06/src/) |
+| 07 | Проверка прототипа и доработка | [report.md](practical-works/practical-work-07/report.md) | [src](practical-works/practical-work-07/src/) |
+| 08 | Подготовка и защита итогового решения | [report.md](practical-works/practical-work-08/report.md) | [src](practical-works/practical-work-08/src/) |
 
-Работы № 1 и № 2 содержат отчёты и материалы. Разделы работ № 3–8 заполняются по мере выполнения заданий.
+Работа № 1 содержит материалы формирования команды. Работа № 2 содержит отчёт об организации репозитория; личная работа участников с ветками, коммитами и ревью продолжается. Для работ № 3–8 оставлены только папки и файлы-заготовки по структуре СР2.
 
 ## Порядок совместной работы
 
@@ -56,7 +52,7 @@
 
 ## Структура и проверка
 
-Папки соответствуют образцу СР2: `docs/`, `practical-works/practical-work-01` … `practical-work-08`, `scripts/`, `README.md` и `.gitignore`. Пустые папки содержат `.gitkeep`, чтобы сохраняться в Git. Материалы каждой работы размещаются в её `assets/`: портреты пользователей и схемы в СР3, результаты мозгового штурма в СР4, макеты и карта навигации в СР5, скриншоты прототипа в СР6, сравнение «до» и «после» в СР7, презентация в СР8. Файлы или экспорт прототипа хранятся в `src/` работ № 6 и № 7.
+Структура соответствует образцу СР2: `README.md`, `docs/`, восемь папок в `practical-works/`, `scripts/` и `.gitignore`. В каждой работе есть `report.md`; в работах № 1–2 предусмотрены `assets/`, в работах № 3–8 `src/`. Пустые папки сохраняются в Git с помощью `.gitkeep`. Скриншоты СР2 размещены в `practical-works/practical-work-02/assets/`.
 
 Из корня репозитория можно выполнить проверку:
 
