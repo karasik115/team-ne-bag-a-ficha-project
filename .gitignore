@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Локальные настройки и временные файлы
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+~$*
+
+# Локальные секреты
+.env
+.env.*
+!.env.example
