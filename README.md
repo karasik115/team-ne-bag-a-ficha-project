@@ -1,42 +1,60 @@
 # Не баг, а фича
 
-Учебный репозиторий команды «Не баг, а фича» по дисциплине «Введение в профессиональную деятельность».
+Единый учебный репозиторий бригады № 1 по дисциплине «Введение в профессиональную деятельность» в РГРТУ имени В. Ф. Уткина. Здесь хранятся результаты восьми практических работ, общая документация, материалы и исходный код.
 
-**Вуз:** РГРТУ  
-**Группа:** 643  
-**Лидер команды:** Двойных Н. К.
+## Назначение проекта
 
-## Документы команды
+В течение семестра команда поэтапно разрабатывает и демонстрирует прототип веб-сайта: определяет целевую аудиторию, формулирует функциональные требования, проектирует интерфейс, создаёт прототип, проверяет его и готовит защиту. Это общее назначение из методички. Конкретная предметная тема сайта в отчёте № 1 не указана и пока не зафиксирована в репозитории.
 
-- [Командный договор](docs/team-contract.md)
-- [Роли и обязанности](docs/roles-and-responsibilities.md)
-- [Матрица RACI](docs/raci-matrix.md)
+## Состав команды
+
+| Участник | Роль | GitHub |
+| --- | --- | --- |
+| Двойных Никита Константинович | Лидер команды | [karasik115](https://github.com/karasik115) |
+| Алиева Софья Эльдаровна | Менеджер | Логин не предоставлен |
+| Аванесова Анастасия Денисовна | Дизайнер UI/UX | Логин не предоставлен |
+| Гришин Андрей Александрович | Программист | Логин не предоставлен |
+| Аляпкин Никита Игоревич | Специалист по БД | Логин не предоставлен |
+| Шушкин Артем Олегович | Тестировщик QA | Логин не предоставлен |
+
+Лидер и менеджер являются отдельными ролями. Ф. И. О. и роли взяты из отчёта о самостоятельной работе № 1. Логины остальных участников нужно добавить после их подтверждения.
+
+## Основные документы
+
+- [Правила взаимодействия команды](docs/team-contract.md).
+- [Роли, обоснования выбора, профессиональные стандарты и эссе](docs/roles-and-responsibilities.md).
+- [Матрица RACI первого этапа и обязанностей в Git](docs/raci-matrix.md).
 
 ## Практические работы
 
-| Работа | Отчёт | Материалы |
-| --- | --- | --- |
-| 01 | [Отчёт](practical-works/practical-work-01/report.md) | [assets](practical-works/practical-work-01/assets/) |
-| 02 | [Отчёт](practical-works/practical-work-02/report.md) | [assets](practical-works/practical-work-02/assets/) |
-| 03 | [Отчёт](practical-works/practical-work-03/report.md) | [src](practical-works/practical-work-03/src/) |
-| 04 | [Отчёт](practical-works/practical-work-04/report.md) | [src](practical-works/practical-work-04/src/) |
-| 05 | [Отчёт](practical-works/practical-work-05/report.md) | [src](practical-works/practical-work-05/src/) |
-| 06 | [Отчёт](practical-works/practical-work-06/report.md) | [src](practical-works/practical-work-06/src/) |
-| 07 | [Отчёт](practical-works/practical-work-07/report.md) | [src](practical-works/practical-work-07/src/) |
-| 08 | [Отчёт](practical-works/practical-work-08/report.md) | [src](practical-works/practical-work-08/src/) |
+| Работа | Тема | Отчёт | Материалы |
+| --- | --- | --- | --- |
+| 01 | Профессиональные роли и формирование команды | [report.md](practical-works/practical-work-01/report.md) | [assets](practical-works/practical-work-01/assets/) |
+| 02 | Организация работы с репозиторием и распределение ответственности в Git | [report.md](practical-works/practical-work-02/report.md) | [assets](practical-works/practical-work-02/assets/) |
+| 03 | Определение целевой аудитории | [report.md](practical-works/practical-work-03/report.md) | [src](practical-works/practical-work-03/src/) |
+| 04 | Выявление функциональных требований методом мозгового штурма | [report.md](practical-works/practical-work-04/report.md) | [src](practical-works/practical-work-04/src/) |
+| 05 | Разработка интерфейса | [report.md](practical-works/practical-work-05/report.md) | [src](practical-works/practical-work-05/src/) |
+| 06 | Разработка прототипа | [report.md](practical-works/practical-work-06/report.md) | [src](practical-works/practical-work-06/src/) |
+| 07 | Проверка прототипа и доработка | [report.md](practical-works/practical-work-07/report.md) | [src](practical-works/practical-work-07/src/) |
+| 08 | Подготовка и защита итогового решения | [report.md](practical-works/practical-work-08/report.md) | [src](practical-works/practical-work-08/src/) |
 
-## Порядок работы
+Отчёт № 1 перенесён из предоставленного документа. Отчёт № 2 содержит выполненную организационную часть и явно отмеченные действия, которые каждый участник должен выполнить лично. Работы № 3–8 пока являются шаблонами будущих этапов.
 
-1. Разместить отчёт в `report.md` соответствующей практической работы.
-2. Для работ 01 и 02 хранить изображения и другие материалы в `assets/`.
-3. Для работ 03–08 хранить исходный код в `src/`.
-4. Заполнить и согласовать документы в `docs/` с участниками команды.
+## Порядок совместной работы
 
-Пустые папки содержат `.gitkeep`, чтобы они сохранялись в Git. Файлы отчётов и командного договора подготовлены как шаблоны для заполнения.
+1. Каждый участник регистрируется на GitHub и сообщает свой точный логин лидеру для добавления доступа к приватному репозиторию.
+2. Клонирует репозиторий на свой компьютер: `git clone https://github.com/karasik115/team-ne-bag-a-ficha-project.git`.
+3. Создаёт свою ветку `feature/<имя_участника>` или `role/<название_роли>`.
+4. Вносит изменения в материалы своей роли, делает осмысленный коммит и отправляет ветку на GitHub.
+5. Создаёт Pull Request в `main`, получает ревью другого участника и передаёт изменения на слияние лидеру.
 
-## Проверка структуры
+Команды и рекомендуемые ветки для каждого участника приведены в [отчёте № 2](practical-works/practical-work-02/report.md).
 
-Из корня репозитория выполнить:
+## Структура и проверка
+
+Папки соответствуют образцу СР2: `docs/`, `practical-works/practical-work-01` … `practical-work-08`, `scripts/`, `README.md` и `.gitignore`. Пустые папки содержат `.gitkeep`, чтобы сохраняться в Git. Скриншоты СР2 находятся в `practical-works/practical-work-02/assets/`.
+
+Из корня репозитория можно выполнить проверку:
 
 ```sh
 python scripts/check_structure.py
