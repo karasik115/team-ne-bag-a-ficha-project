@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | Двойных Никита Константинович | Лидер команды | [karasik115](https://github.com/karasik115) |
 | Алиева Софья Эльдаровна | Менеджер | [soniikaka](https://github.com/soniikaka) |
-| Аванесова Анастасия Денисовна | Дизайнер UI/UX | [NASSS1E](https://github.com/NASSS1E) |
+| Аванесова Анастасия Денисовна | Дизайнeр UI/UX | [NASSS1E](https://github.com/NASSS1E) |
 | Гришин Андрей Александрович | Программист | [1Andrey0](https://github.com/1Andrey0) |
 | Аляпкин Никита Игоревич | Специалист по БД | [N1kr0man](https://github.com/N1kr0man) |
 | Шушкин Артем Олегович | Тестировщик QA | [artiomshushkin-lang](https://github.com/artiomshushkin-lang) |
