@@ -8,10 +8,10 @@
 | --- | --- | --- |
 | Двойных Никита Константинович | Не добавлена | [karasik115](https://github.com/karasik115) |
 | Алиева Софья Эльдаровна | Не добавлена | [soniikaka](https://github.com/soniikaka) |
-| Аванесова Анастасия Денисовна | Дизайнeр UI/UX | [NASSS1E](https://github.com/NASSS1E) |
+| Аванесова Анастасия Денисовна | Дизайнер UI/UX | [NASSS1E](https://github.com/NASSS1E) |
 | Гришин Андрей Александрович | Программист | [1Andrey0](https://github.com/1Andrey0) |
 | Аляпкин Никита Игоревич | Не добавлена | [N1kr0man](https://github.com/N1kr0man) |
-| Шушкин Артем Олегович | Не добавлена | [artiomshushkin-lang](https://github.com/artiomshushkin-lang) |
+| Шушкин Артем Олегович | Тестировщик QA | [artiomshushkin-lang](https://github.com/artiomshushkin-lang) |
 
 ## 1. Двойных Никита Константинович
 
