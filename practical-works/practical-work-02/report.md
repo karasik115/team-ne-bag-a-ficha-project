@@ -125,8 +125,6 @@ PR Софии № 5 создан из ветки `feature/soniikaka`, котор
 
 ![PR № 3, Андрей Гришин](assets/pull-request-3.jpg)
 
-[Ревью PR Андрея](https://github.com/karasik115/team-ne-bag-a-ficha-project/pull/3#pullrequestreview-5435296070).
-
 ![PR № 7, Никита Аляпкин](assets/pull-request-7.jpg)
 
 ![PR № 4, Артем Шушкин](assets/pull-request-4.jpg)
