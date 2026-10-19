@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="644" viewBox="0 0 1280 644" role="img" aria-labelledby="title desc">
+<title id="title">На каком этапе обучения вы сейчас находитесь?</title>
+<desc id="desc">Опрос, 40 ответов, 19 октября 2026 года. Учусь в школе: 5 (12,5%); Учусь в колледже или техникуме: 3 (7,5%); Учусь в университете: 24 (60%); Прохожу дополнительные курсы: 2 (5%); Пока не учусь, но планирую обучение: 3 (7,5%); Уже отучился: 1 (2,5%); Давно не учусь, обычный заводчанин: 1 (2,5%); Отучился: 1 (2,5%)</desc>
+<rect width="1280" height="644" fill="#ffffff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif" fill="#202b3d">
+<text x="32" y="46" font-size="23" font-weight="bold">На каком этапе обучения вы сейчас находитесь?</text>
+<text x="32" y="74" font-size="17" fill="#526174">40 ответов · 19.10.2026 · Один вариант ответа</text>
+<line x1="670.0" y1="121" x2="670.0" y2="561" stroke="#e6ebf0"/>
+<text x="670.0" y="590" font-size="15" text-anchor="middle" fill="#526174">0</text>
+<line x1="782.5" y1="121" x2="782.5" y2="561" stroke="#e6ebf0"/>
+<text x="782.5" y="590" font-size="15" text-anchor="middle" fill="#526174">10</text>
+<line x1="895.0" y1="121" x2="895.0" y2="561" stroke="#e6ebf0"/>
+<text x="895.0" y="590" font-size="15" text-anchor="middle" fill="#526174">20</text>
+<line x1="1007.5" y1="121" x2="1007.5" y2="561" stroke="#e6ebf0"/>
+<text x="1007.5" y="590" font-size="15" text-anchor="middle" fill="#526174">30</text>
+<line x1="1120.0" y1="121" x2="1120.0" y2="561" stroke="#e6ebf0"/>
+<text x="1120.0" y="590" font-size="15" text-anchor="middle" fill="#526174">40</text>
+<text x="32" y="170.0" font-size="19">Учусь в школе</text>
+<rect x="670" y="151.0" width="56.25" height="26" rx="4" fill="#3565a6"/>
+<text x="738.25" y="170.0" font-size="18">5 (12,5%)</text>
+<text x="32" y="224.0" font-size="19">Учусь в колледже или техникуме</text>
+<rect x="670" y="205.0" width="33.75" height="26" rx="4" fill="#3565a6"/>
+<text x="715.75" y="224.0" font-size="18">3 (7,5%)</text>
+<text x="32" y="278.0" font-size="19">Учусь в университете</text>
+<rect x="670" y="259.0" width="270.0" height="26" rx="4" fill="#3565a6"/>
+<text x="952.0" y="278.0" font-size="18">24 (60%)</text>
+<text x="32" y="332.0" font-size="19">Прохожу дополнительные курсы</text>
+<rect x="670" y="313.0" width="22.5" height="26" rx="4" fill="#3565a6"/>
+<text x="704.5" y="332.0" font-size="18">2 (5%)</text>
+<text x="32" y="386.0" font-size="19">Пока не учусь, но планирую обучение</text>
+<rect x="670" y="367.0" width="33.75" height="26" rx="4" fill="#3565a6"/>
+<text x="715.75" y="386.0" font-size="18">3 (7,5%)</text>
+<text x="32" y="440.0" font-size="19">Уже отучился</text>
+<rect x="670" y="421.0" width="11.25" height="26" rx="4" fill="#3565a6"/>
+<text x="693.25" y="440.0" font-size="18">1 (2,5%)</text>
+<text x="32" y="494.0" font-size="19">Давно не учусь, обычный заводчанин</text>
+<rect x="670" y="475.0" width="11.25" height="26" rx="4" fill="#3565a6"/>
+<text x="693.25" y="494.0" font-size="18">1 (2,5%)</text>
+<text x="32" y="548.0" font-size="19">Отучился</text>
+<rect x="670" y="529.0" width="11.25" height="26" rx="4" fill="#3565a6"/>
+<text x="693.25" y="548.0" font-size="18">1 (2,5%)</text>
+<text x="670" y="621" font-size="15" fill="#526174">Количество участников, выбравших вариант</text>
+</g></svg>

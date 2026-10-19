@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="648" viewBox="0 0 1280 648" role="img" aria-labelledby="title desc">
+<title id="title">Какие функции вы хотели бы видеть на сайте-помощнике по выбору ноутбука для обучения?</title>
+<desc id="desc">Опрос, 40 ответов, 19 октября 2026 года. Подбор ноутбука по бюджету: 25 (62,5%); Подбор по учебным задачам и специальности: 19 (47,5%); Рекомендации по необходимым техническим характеристикам: 18 (45%); Объяснение характеристик простым языком: 27 (67,5%); Сравнение нескольких моделей: 22 (55%); Рекомендации по соотношению цены и производительности: 18 (45%); Список подходящих моделей с указанием их преимуществ и недостатков: 20 (50%)</desc>
+<rect width="1280" height="648" fill="#ffffff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif" fill="#202b3d">
+<text x="32" y="46" font-size="23" font-weight="bold">Какие функции вы хотели бы видеть на сайте-помощнике по выбору ноутбука для</text>
+<text x="32" y="74" font-size="23" font-weight="bold">обучения?</text>
+<text x="32" y="102" font-size="17" fill="#526174">40 ответов · 19.10.2026 · Можно выбрать несколько вариантов</text>
+<line x1="670.0" y1="149" x2="670.0" y2="565" stroke="#e6ebf0"/>
+<text x="670.0" y="594" font-size="15" text-anchor="middle" fill="#526174">0</text>
+<line x1="782.5" y1="149" x2="782.5" y2="565" stroke="#e6ebf0"/>
+<text x="782.5" y="594" font-size="15" text-anchor="middle" fill="#526174">10</text>
+<line x1="895.0" y1="149" x2="895.0" y2="565" stroke="#e6ebf0"/>
+<text x="895.0" y="594" font-size="15" text-anchor="middle" fill="#526174">20</text>
+<line x1="1007.5" y1="149" x2="1007.5" y2="565" stroke="#e6ebf0"/>
+<text x="1007.5" y="594" font-size="15" text-anchor="middle" fill="#526174">30</text>
+<line x1="1120.0" y1="149" x2="1120.0" y2="565" stroke="#e6ebf0"/>
+<text x="1120.0" y="594" font-size="15" text-anchor="middle" fill="#526174">40</text>
+<text x="32" y="198.0" font-size="19">Подбор ноутбука по бюджету</text>
+<rect x="670" y="179.0" width="281.25" height="26" rx="4" fill="#3565a6"/>
+<text x="963.25" y="198.0" font-size="18">25 (62,5%)</text>
+<text x="32" y="252.0" font-size="19">Подбор по учебным задачам и специальности</text>
+<rect x="670" y="233.0" width="213.75" height="26" rx="4" fill="#3565a6"/>
+<text x="895.75" y="252.0" font-size="18">19 (47,5%)</text>
+<text x="32" y="299.5" font-size="19">Рекомендации по необходимым техническим</text>
+<text x="32" y="322.5" font-size="19">характеристикам</text>
+<rect x="670" y="292.0" width="202.5" height="26" rx="4" fill="#3565a6"/>
+<text x="884.5" y="311.0" font-size="18">18 (45%)</text>
+<text x="32" y="370.0" font-size="19">Объяснение характеристик простым языком</text>
+<rect x="670" y="351.0" width="303.75" height="26" rx="4" fill="#3565a6"/>
+<text x="985.75" y="370.0" font-size="18">27 (67,5%)</text>
+<text x="32" y="424.0" font-size="19">Сравнение нескольких моделей</text>
+<rect x="670" y="405.0" width="247.5" height="26" rx="4" fill="#3565a6"/>
+<text x="929.5" y="424.0" font-size="18">22 (55%)</text>
+<text x="32" y="471.5" font-size="19">Рекомендации по соотношению цены и</text>
+<text x="32" y="494.5" font-size="19">производительности</text>
+<rect x="670" y="464.0" width="202.5" height="26" rx="4" fill="#3565a6"/>
+<text x="884.5" y="483.0" font-size="18">18 (45%)</text>
+<text x="32" y="535.5" font-size="19">Список подходящих моделей с указанием их преимуществ</text>
+<text x="32" y="558.5" font-size="19">и недостатков</text>
+<rect x="670" y="528.0" width="225.0" height="26" rx="4" fill="#3565a6"/>
+<text x="907.0" y="547.0" font-size="18">20 (50%)</text>
+<text x="670" y="625" font-size="15" fill="#526174">Количество участников, выбравших вариант</text>
+</g></svg>

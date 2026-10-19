@@ -10,7 +10,7 @@ expected = [
 for number in range(1, 9):
     base = f"practical-works/practical-work-{number:02d}"
     expected.append(f"{base}/report.md")
-    expected.append(f"{base}/{'assets' if number <= 2 else 'src'}/")
+    expected.append(f"{base}/{'assets' if number <= 3 else 'src'}/")
 
 missing = [path for path in expected if not (root / path).exists()]
 if missing:

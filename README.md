@@ -1,6 +1,6 @@
 # Не баг, а фича
 
-Единый учебный репозиторий бригады № 1 по дисциплине «Введение в профессиональную деятельность» в РГРТУ имени В. Ф. Уткина. Текущий этап: самостоятельная работа № 2, организация репозитория и совместной работы с Git.
+Единый учебный репозиторий бригады № 1 по дисциплине «Введение в профессиональную деятельность» в РГРТУ имени В. Ф. Уткина. Текущий этап: самостоятельная работа № 3, определение целевой аудитории.
 
 ## Назначение проекта
 
@@ -31,14 +31,14 @@
 | --- | --- | --- | --- |
 | 01 | Профессиональные роли и формирование команды | [report.md](practical-works/practical-work-01/report.md) | [assets](practical-works/practical-work-01/assets/) |
 | 02 | Организация работы с репозиторием и распределение ответственности в Git | [report.md](practical-works/practical-work-02/report.md) | [assets](practical-works/practical-work-02/assets/) |
-| 03 | Определение целевой аудитории | [report.md](practical-works/practical-work-03/report.md) | [src](practical-works/practical-work-03/src/) |
+| 03 | Определение целевой аудитории | [report.md](practical-works/practical-work-03/report.md) | [assets](practical-works/practical-work-03/assets/) |
 | 04 | Выявление функциональных требований методом мозгового штурма | [report.md](practical-works/practical-work-04/report.md) | [src](practical-works/practical-work-04/src/) |
 | 05 | Разработка интерфейса | [report.md](practical-works/practical-work-05/report.md) | [src](practical-works/practical-work-05/src/) |
 | 06 | Разработка прототипа | [report.md](practical-works/practical-work-06/report.md) | [src](practical-works/practical-work-06/src/) |
 | 07 | Проверка прототипа и доработка | [report.md](practical-works/practical-work-07/report.md) | [src](practical-works/practical-work-07/src/) |
 | 08 | Подготовка и защита итогового решения | [report.md](practical-works/practical-work-08/report.md) | [src](practical-works/practical-work-08/src/) |
 
-Работа № 1 содержит материалы формирования команды. Работа № 2 содержит отчёт об организации репозитория, личных коммитах и Pull Request всех шести участников. Все личные Pull Request объединены с main. Статус ревью и оставшиеся действия приведены в отчёте № 2. Материалы работ № 3–8 пока отсутствуют.
+Работа № 1 содержит материалы формирования команды. Работа № 2 содержит отчёт об организации репозитория, личных коммитах и Pull Request всех шести участников. Все личные Pull Request объединены с main. Работа № 3 содержит анализ целевой аудитории, портреты пользователей и результаты опроса 40 участников с диаграммами. Материалы работ № 4–8 пока отсутствуют.
 
 ## Порядок совместной работы
 
@@ -47,5 +47,6 @@
 3. Создаёт свою ветку `feature/<имя_участника>` или `role/<название_роли>`.
 4. Вносит изменения в материалы своей роли, делает осмысленный коммит и отправляет ветку на GitHub.
 5. Создаёт Pull Request в `main`, получает ревью другого участника и передаёт изменения на слияние лидеру.
+
 
 

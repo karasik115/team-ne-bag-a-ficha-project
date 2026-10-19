@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="536" viewBox="0 0 1280 536" role="img" aria-labelledby="title desc">
+<title id="title">Какой бюджет вы готовы выделить на покупку ноутбука для обучения?</title>
+<desc id="desc">Опрос, 40 ответов, 19 октября 2026 года. До 30 000 рублей: 6 (15%); От 30 000 до 50 000 рублей: 9 (22,5%); От 50 000 до 70 000 рублей: 10 (25%); От 70 000 до 100 000 рублей: 10 (25%); Более 100 000 рублей: 4 (10%); Пока не определился(-ась): 1 (2,5%)</desc>
+<rect width="1280" height="536" fill="#ffffff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif" fill="#202b3d">
+<text x="32" y="46" font-size="23" font-weight="bold">Какой бюджет вы готовы выделить на покупку ноутбука для обучения?</text>
+<text x="32" y="74" font-size="17" fill="#526174">40 ответов · 19.10.2026 · Один вариант ответа</text>
+<line x1="670.0" y1="121" x2="670.0" y2="453" stroke="#e6ebf0"/>
+<text x="670.0" y="482" font-size="15" text-anchor="middle" fill="#526174">0</text>
+<line x1="782.5" y1="121" x2="782.5" y2="453" stroke="#e6ebf0"/>
+<text x="782.5" y="482" font-size="15" text-anchor="middle" fill="#526174">10</text>
+<line x1="895.0" y1="121" x2="895.0" y2="453" stroke="#e6ebf0"/>
+<text x="895.0" y="482" font-size="15" text-anchor="middle" fill="#526174">20</text>
+<line x1="1007.5" y1="121" x2="1007.5" y2="453" stroke="#e6ebf0"/>
+<text x="1007.5" y="482" font-size="15" text-anchor="middle" fill="#526174">30</text>
+<line x1="1120.0" y1="121" x2="1120.0" y2="453" stroke="#e6ebf0"/>
+<text x="1120.0" y="482" font-size="15" text-anchor="middle" fill="#526174">40</text>
+<text x="32" y="170.0" font-size="19">До 30 000 рублей</text>
+<rect x="670" y="151.0" width="67.5" height="26" rx="4" fill="#3565a6"/>
+<text x="749.5" y="170.0" font-size="18">6 (15%)</text>
+<text x="32" y="224.0" font-size="19">От 30 000 до 50 000 рублей</text>
+<rect x="670" y="205.0" width="101.25" height="26" rx="4" fill="#3565a6"/>
+<text x="783.25" y="224.0" font-size="18">9 (22,5%)</text>
+<text x="32" y="278.0" font-size="19">От 50 000 до 70 000 рублей</text>
+<rect x="670" y="259.0" width="112.5" height="26" rx="4" fill="#3565a6"/>
+<text x="794.5" y="278.0" font-size="18">10 (25%)</text>
+<text x="32" y="332.0" font-size="19">От 70 000 до 100 000 рублей</text>
+<rect x="670" y="313.0" width="112.5" height="26" rx="4" fill="#3565a6"/>
+<text x="794.5" y="332.0" font-size="18">10 (25%)</text>
+<text x="32" y="386.0" font-size="19">Более 100 000 рублей</text>
+<rect x="670" y="367.0" width="45.0" height="26" rx="4" fill="#3565a6"/>
+<text x="727.0" y="386.0" font-size="18">4 (10%)</text>
+<text x="32" y="440.0" font-size="19">Пока не определился(-ась)</text>
+<rect x="670" y="421.0" width="11.25" height="26" rx="4" fill="#3565a6"/>
+<text x="693.25" y="440.0" font-size="18">1 (2,5%)</text>
+<text x="670" y="513" font-size="15" fill="#526174">Количество участников, выбравших вариант</text>
+</g></svg>

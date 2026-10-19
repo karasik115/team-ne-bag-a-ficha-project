@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="752" viewBox="0 0 1280 752" role="img" aria-labelledby="title desc">
+<title id="title">Какие характеристики ноутбука наиболее важны для вас при обучении?</title>
+<desc id="desc">Опрос, 40 ответов, 19 октября 2026 года. Производительность процессора: 30 (75%); Объём оперативной памяти: 30 (75%); Объём накопителя: 15 (37,5%); Возможности видеокарты: 11 (27,5%); Время автономной работы: 23 (57,5%); Размер и тип экрана: 12 (30%); Небольшой вес и удобство переноски: 24 (60%); Надёжность и долговечность: 19 (47,5%); Доступная цена: 17 (42,5%); Все вместе: 1 (2,5%)</desc>
+<rect width="1280" height="752" fill="#ffffff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif" fill="#202b3d">
+<text x="32" y="46" font-size="23" font-weight="bold">Какие характеристики ноутбука наиболее важны для вас при обучении?</text>
+<text x="32" y="74" font-size="17" fill="#526174">40 ответов · 19.10.2026 · Можно выбрать несколько вариантов</text>
+<line x1="670.0" y1="121" x2="670.0" y2="669" stroke="#e6ebf0"/>
+<text x="670.0" y="698" font-size="15" text-anchor="middle" fill="#526174">0</text>
+<line x1="782.5" y1="121" x2="782.5" y2="669" stroke="#e6ebf0"/>
+<text x="782.5" y="698" font-size="15" text-anchor="middle" fill="#526174">10</text>
+<line x1="895.0" y1="121" x2="895.0" y2="669" stroke="#e6ebf0"/>
+<text x="895.0" y="698" font-size="15" text-anchor="middle" fill="#526174">20</text>
+<line x1="1007.5" y1="121" x2="1007.5" y2="669" stroke="#e6ebf0"/>
+<text x="1007.5" y="698" font-size="15" text-anchor="middle" fill="#526174">30</text>
+<line x1="1120.0" y1="121" x2="1120.0" y2="669" stroke="#e6ebf0"/>
+<text x="1120.0" y="698" font-size="15" text-anchor="middle" fill="#526174">40</text>
+<text x="32" y="170.0" font-size="19">Производительность процессора</text>
+<rect x="670" y="151.0" width="337.5" height="26" rx="4" fill="#3565a6"/>
+<text x="1019.5" y="170.0" font-size="18">30 (75%)</text>
+<text x="32" y="224.0" font-size="19">Объём оперативной памяти</text>
+<rect x="670" y="205.0" width="337.5" height="26" rx="4" fill="#3565a6"/>
+<text x="1019.5" y="224.0" font-size="18">30 (75%)</text>
+<text x="32" y="278.0" font-size="19">Объём накопителя</text>
+<rect x="670" y="259.0" width="168.75" height="26" rx="4" fill="#3565a6"/>
+<text x="850.75" y="278.0" font-size="18">15 (37,5%)</text>
+<text x="32" y="332.0" font-size="19">Возможности видеокарты</text>
+<rect x="670" y="313.0" width="123.75" height="26" rx="4" fill="#3565a6"/>
+<text x="805.75" y="332.0" font-size="18">11 (27,5%)</text>
+<text x="32" y="386.0" font-size="19">Время автономной работы</text>
+<rect x="670" y="367.0" width="258.75" height="26" rx="4" fill="#3565a6"/>
+<text x="940.75" y="386.0" font-size="18">23 (57,5%)</text>
+<text x="32" y="440.0" font-size="19">Размер и тип экрана</text>
+<rect x="670" y="421.0" width="135.0" height="26" rx="4" fill="#3565a6"/>
+<text x="817.0" y="440.0" font-size="18">12 (30%)</text>
+<text x="32" y="494.0" font-size="19">Небольшой вес и удобство переноски</text>
+<rect x="670" y="475.0" width="270.0" height="26" rx="4" fill="#3565a6"/>
+<text x="952.0" y="494.0" font-size="18">24 (60%)</text>
+<text x="32" y="548.0" font-size="19">Надёжность и долговечность</text>
+<rect x="670" y="529.0" width="213.75" height="26" rx="4" fill="#3565a6"/>
+<text x="895.75" y="548.0" font-size="18">19 (47,5%)</text>
+<text x="32" y="602.0" font-size="19">Доступная цена</text>
+<rect x="670" y="583.0" width="191.25" height="26" rx="4" fill="#3565a6"/>
+<text x="873.25" y="602.0" font-size="18">17 (42,5%)</text>
+<text x="32" y="656.0" font-size="19">Все вместе</text>
+<rect x="670" y="637.0" width="11.25" height="26" rx="4" fill="#3565a6"/>
+<text x="693.25" y="656.0" font-size="18">1 (2,5%)</text>
+<text x="670" y="729" font-size="15" fill="#526174">Количество участников, выбравших вариант</text>
+</g></svg>
