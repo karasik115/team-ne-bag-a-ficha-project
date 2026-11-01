@@ -34,7 +34,7 @@
 
 Основой стали потребности аудитории из [самостоятельной работы № 3](../practical-work-03/report.md). При отборе учитывались польза для студентов и родителей, связь с учебными задачами и возможность реализации в учебном прототипе.
 
-[Общая доска](https://excalidraw.com/#room=fd8dc109b651ce31ddf3,5KZDTWPB00dRcM9328QZZQ) · [Редактируемый файл](assets/brainstorm.excalidraw).
+[Общая доска](https://excalidraw.com/#room=fd8dc109b651ce31ddf3,5KZDTWPB00dRcM9328QZZQ) · [Файл доски для редактирования в Excalidraw](assets/brainstorm.excalidraw).
 
 ![Полный список идей на доске](assets/brainstorm-ideas.jpg)
 
@@ -91,10 +91,6 @@
 | 25 | Отзывы и оценки владельцев | Требуют хранения отзывов, модерации и защиты от спама |
 
 ![Группировка и отбор идей](assets/brainstorm-selection.jpg)
-
-![Отклонённые идеи и причины](assets/brainstorm-rejected.jpg)
-
-![Отклонённые идеи: 3D-модели и отзывы](assets/brainstorm-rejected-more.jpg)
 
 ## 4. Функциональные требования
 
